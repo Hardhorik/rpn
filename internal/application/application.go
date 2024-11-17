@@ -1,9 +1,5 @@
 package application
 
-import "github.com/Hardhorik/rpn/pkg/rpn"
-
-package application
-
 import (
 	"bufio"
 	"log"
